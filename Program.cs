@@ -1,4 +1,4 @@
-﻿using System;
+﻿using Solutions;
 
 namespace Advent_Of_Code
 {
