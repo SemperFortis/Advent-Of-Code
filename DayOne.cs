@@ -20,7 +20,6 @@ namespace Advent_Of_Code
                     {
                         found = true;
                         Console.WriteLine($"The two numbers are {expense} and {e}. The solution is {expense * e}.");
-                        
                     }
                 }
 
