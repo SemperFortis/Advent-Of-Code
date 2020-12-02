@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\C#\\advent of code\\Advent Of Code.csproj": {}
+    "C:\\Projects\\C#\\Advent Of Code\\Advent Of Code.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\C#\\advent of code\\Advent Of Code.csproj": {
+    "C:\\Projects\\C#\\Advent Of Code\\Advent Of Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\C#\\advent of code\\Advent Of Code.csproj",
+        "projectUniqueName": "C:\\Projects\\C#\\Advent Of Code\\Advent Of Code.csproj",
         "projectName": "Advent Of Code",
-        "projectPath": "C:\\Projects\\C#\\advent of code\\Advent Of Code.csproj",
+        "projectPath": "C:\\Projects\\C#\\Advent Of Code\\Advent Of Code.csproj",
         "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\C#\\advent of code\\obj\\",
+        "outputPath": "C:\\Projects\\C#\\Advent Of Code\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
