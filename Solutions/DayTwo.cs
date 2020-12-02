@@ -5,7 +5,7 @@ namespace Solutions
 {
     class DayTwo
     {
-        public static void solution()
+        public static void Solution()
         {
             string[] text = File.ReadAllText(Path.Combine(Environment.CurrentDirectory, "..\\..\\..\\Solutions\\Inputs\\DayTwo.txt")).Split("\n");
             int count = 0;

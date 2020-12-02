@@ -6,8 +6,8 @@ namespace Advent_Of_Code
     {
         static void Main(string[] args)
         {
-            DayOne.solution();
-            DayTwo.solution();
+            DayOne.Solution();
+            DayTwo.Solution();
         }
     }
 }
