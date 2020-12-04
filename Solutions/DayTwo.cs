@@ -44,27 +44,16 @@ namespace Solutions
 
                                 if (min - 1 == k || max - 1 == k)
                                 {
-                                    if (passed)
-                                    {
-                                        passed = false;
-                                    } else
-                                    {
-                                        passed = true;
-                                    }
+                                    if (passed) passed = false;
+                                    else passed = true;
                                 }
                             }
                         }
 
-                        if (seen >= min && seen <= max)
-                        {
-                            count++;
-                        }
+                        if (seen >= min && seen <= max) count++;
                     }
 
-                    if (passed)
-                    {
-                        valid++;
-                    }
+                    if (passed) valid++;
                 }
             }
 
